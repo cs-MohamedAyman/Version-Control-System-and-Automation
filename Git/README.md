@@ -1,4 +1,4 @@
-# Git Version Control System `20 Hrs`
+# Git - Version Control System `20 Hrs`
 
 ## Chapter 1: [Git Basics](/Git/chapter1/README.md) `40 slides`
 
